@@ -16,13 +16,11 @@
     
 ## 4. 사용 방법 (Header 2)
 
-    아두이노 하드웨어 제작이 필요합니다. 
-    
-    - 하드웨어 구성도
+    아두이노 하드웨어 제작이 필요합니다.        
+   - 하드웨어 구성도
     <img width="1000" src="https://user-images.githubusercontent.com/59523147/121900493-6e89a100-cd60-11eb-9749-11b69229e33e.png">
-        
-        
+    
 ## 5. 실행 화면
 
  - App 메인 화면 및 알람
-<img width="1000" src="https://user-images.githubusercontent.com/59523147/121900687-a264c680-cd60-11eb-9e4c-b0d90a3e1718.png">
+<img width="600" src="https://user-images.githubusercontent.com/59523147/121900687-a264c680-cd60-11eb-9e4c-b0d90a3e1718.png">
