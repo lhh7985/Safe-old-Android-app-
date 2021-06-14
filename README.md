@@ -12,13 +12,13 @@
 
 ## 3. 흐름도
 
-   <img witdh="1000" src="https://user-images.githubusercontent.com/59523147/121900410-5ade3a80-cd60-11eb-9cf4-740c6625be4e.png">
+   <img witdh="600" src="https://user-images.githubusercontent.com/59523147/121900410-5ade3a80-cd60-11eb-9cf4-740c6625be4e.png">
     
 ## 4. 사용 방법 (Header 2)
 
     아두이노 하드웨어 제작이 필요합니다.        
    - 하드웨어 구성도
-    <img width="1000" src="https://user-images.githubusercontent.com/59523147/121900493-6e89a100-cd60-11eb-9749-11b69229e33e.png">
+    <img width="800" src="https://user-images.githubusercontent.com/59523147/121900493-6e89a100-cd60-11eb-9749-11b69229e33e.png">
     
 ## 5. 실행 화면
 
